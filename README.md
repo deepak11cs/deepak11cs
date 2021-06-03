@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Deepak](https://github.com/deepak11cs) 👨‍💻
+### Hi there 👋, I'm [Deepak](https://www.linkedin.com/in/deepak11cs) 👨‍💻
 
 <br/>
 
@@ -30,7 +30,7 @@ Pursuing MCA from Department of Computer Science, University of Delhi graduating
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently looking for summer internship/ fulltime opertunities.
+- 👨🏽‍💻 I’m currently looking for summer internship/ fulltime opportunities.
 - 🌱 I’m currently learning Docker and TypeScript.
 - 💬 Ask me about anything related to JS, React, Redux, MongoDB.
 - 🎿 Hobbies other than coding : Reading blogs , Solving problems on Codechef/Leetcode , Playing Cricket , Playing games.
