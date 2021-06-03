@@ -26,7 +26,7 @@ Pursuing MCA from Department of Computer Science, University of Delhi graduating
 </p>
 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+  <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
   
 ### ✨ Quick Facts
 
@@ -35,7 +35,7 @@ Pursuing MCA from Department of Computer Science, University of Delhi graduating
 - 💬 Ask me about anything related to JS, React, Redux, MongoDB.
 - 🎿 Hobbies other than coding : Reading blogs , Solving problems on Codechef/Leetcode , Playing Cricket , Playing games.
 - 📫 How to reach me: deepak.mca19.du@gmail.com
-- 📝 [Resume](https://drive.google.com/file/d/13anQkhwfLZucIaHl8zu1kUdQr68CT-dF/view)
+- 📝 [Resume](https://drive.google.com/file/d/1i5fhXegUv8S7VrcUg7SbNpuYxzzZvMLq/view)
 
 ### 🛠️ Languages and Tools:
 
